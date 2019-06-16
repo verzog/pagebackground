@@ -1,5 +1,5 @@
 # pagebackground
-This a page background image for Moodle that allows you to "brand" a Moodle page with a background image in the standard Boost theme(not tested in others).
+This a page background image for Moodle that allows you to "brand" a Moodle page with a background image in the standard Boost/Classic themes(not tested in others).
 
 Requires the Generico filter be installed https://moodle.org/plugins/filter_generico plugin by Justin Hunt
 The Generico Atto Icon is useful too https://moodle.org/plugins/atto_generico
